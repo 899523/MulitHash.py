@@ -17,11 +17,6 @@ print(C("""
 
 """).rainbow(rgb_mode=True))
 
-#The following is for notices or future updates
-print(color("ATTENTION:", fore='red', style='bright'))
-print(color("This program is still a work in progress", fore='red', style='bright'))
-print(color("so please excuse any errors.", fore='red', style='bright'))
-
 print(color("""
 Algorithm List
 --------------
