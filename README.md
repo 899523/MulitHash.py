@@ -5,3 +5,4 @@
 
 # Patch Notes
 - Created new functions for different parts of the program to increase efficiency.
+- Added color to the output to improve user experience.
