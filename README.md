@@ -3,5 +3,5 @@
   - To use, input the file path with out quotations on the ends, select the algorithm you wish to use and hit enter.
   - Requirements to run are: Python 3.9.4 and the Colr library (https://pypi.org/project/Colr/).
 
-#Patch Notes
+# Patch Notes
 - Created new functions for different parts of the program to increase efficiency.
