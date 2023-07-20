@@ -5,6 +5,10 @@
   - Note: This program cannot hash with salt as of now. That feature may be added in the future.
 
 # Patch Notes
+- Multi-Hash 2.0
+  - Updated code to output all hashes instead of only one to improve ease of use
+  - Cleaned up code
+  - Note: version jump due to rewrite of a decent chunk of the code
 - Multi-Hash 1.1
   - Created new functions for different parts of the program to increase efficiency.
   - Added color to the output to improve user experience.
